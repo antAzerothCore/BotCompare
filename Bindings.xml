@@ -1,0 +1,5 @@
+<Bindings>
+    <Binding name="EquipItem" description="Default description" header="BOTCOMPARE">
+        BotCompare:EquipCursorItem();
+    </Binding>
+</Bindings>

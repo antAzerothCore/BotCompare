@@ -1,0 +1,13 @@
+## Interface: 30300
+## X-Compatible-With: 40000
+## Author: Aris Trapalis
+## Title: BotCompare
+## Version: 0.2.0
+## Notes: Streamlines comparing and equipping gear to NPCBots
+## OptionalDeps:
+## RequiredDeps: 
+## SavedVariablesPerCharacter:
+## SavedVariables:
+
+BotCompare.lua
+BotCompare.xml
